@@ -1,2 +1,4 @@
 # Face2BMI
-This repository contains a project for real-time BMI estimation from webcam images using a deep learning model based on the InceptionResNetV2 architecture. The system utilizes a Flask web API, allowing users to capture images and receive immediate BMI predictions.
+This repository contains a Flask-based web API for predicting Body Mass Index (BMI) from webcam images using a deep learning model. The API provides real-time predictions, allowing users to capture an image with their webcam and receive their predicted BMI immediately.
+
+## Project Structure
