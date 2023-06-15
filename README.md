@@ -15,6 +15,7 @@ This repository contains a Flask-based web API for predicting Body Mass Index (B
 7. Run the Flask application (python app.py).
 8. Open your web browser and enter the URL where the web API is running (e.g., http://localhost:5004).
 9. Follow the instructions on the web page to capture an image and get the BMI prediction.
+
 Please note that the trained model is not included in this repository due to size constraints. After running the code in model.html, the generated model should be placed in the model directory and will be used by app.py for BMI prediction.
 
 ## Results
